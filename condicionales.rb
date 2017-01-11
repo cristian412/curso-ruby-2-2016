@@ -14,3 +14,7 @@ unless false
 	puts "false"
 end
 
+user = "Uriel"
+
+puts user == "Uriel" ? "tutor" : "Visitante"
+
